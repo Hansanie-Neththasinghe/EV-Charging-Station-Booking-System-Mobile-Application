@@ -1,7 +1,5 @@
 # EV-Charging-Station-Booking-System-Mobile-Application
 
-# EV Charging Station Booking – Android (Pure Android)
-
 **Branch:** `feature/hansanie`  
 **Stack:** Pure Android (Java + XML), Room (SQLite), Retrofit (HTTP), Google Maps, ZXing (QR)
 
